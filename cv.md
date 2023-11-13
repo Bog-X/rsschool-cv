@@ -9,7 +9,7 @@
 
 ## Summary
 
-Some text here
+Some text about me here
 
 
 ## Skills
